@@ -1,6 +1,6 @@
 # oprating-system-programing-assigment
 
-I have used switch statement for menu driven topic selection.
+I have used switch statement for menu driven topic selection. 5th sem la2 assigment for os theory subject NMIT.
 
 Topics : 
 1) Process Creation and Termination
